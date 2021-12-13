@@ -1,0 +1,51 @@
+[33mcommit 87ac8385f2c65093594fcc36e8021695e1677104[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Zoltan Fabian <zoltan.dzooli.fabian@gmail.com>
+Date:   Sat Dec 11 16:09:32 2021 +0100
+
+    added workspace
+
+[33mcommit 283251cd553cbd166e48d5b6105671b59cbd6f9b[m
+Merge: 4966fc4 f37fb22
+Author: Zoltan Fabian <zoltan.dzooli.fabian@gmail.com>
+Date:   Sat Dec 11 15:55:47 2021 +0100
+
+    Merge branch 'master' of https://github.com/dzooli/docker-phalcon4
+
+[33mcommit 4966fc4f725fc3cd224da9d8cafa7f95ace1e3e3[m
+Author: Zoltan Fabian <zoltan.dzooli.fabian@gmail.com>
+Date:   Sat Dec 11 15:53:08 2021 +0100
+
+    version 1.0.0
+
+[33mcommit 56769c488217933ff74870bd9a1ffb145a581ac8[m
+Author: Zoltan Fabian <zoltan.dzooli.fabian@gmail.com>
+Date:   Sat Dec 11 13:54:53 2021 +0100
+
+    readme added
+
+[33mcommit f37fb221d71810816405b5e312229df1bf2482e2[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 4451a16 f94a952
+Author: Zoltan Fabian <zoltan.dzooli.fabian@gmail.com>
+Date:   Sat Dec 11 13:48:38 2021 +0100
+
+    Merge pull request #1 from dzooli/master
+    
+    initial commit
+
+[33mcommit f94a95246550d30c58139eef6182a8729dd5b53c[m
+Author: Zoltan Fabian <zoltan.dzooli.fabian@gmail.com>
+Date:   Sat Dec 11 13:46:10 2021 +0100
+
+    initial commit
+
+[33mcommit 4451a165f48559d961c918f8e585f78b8b1b778e[m
+Author: Zoltan Fabian <zoltan.dzooli.fabian@gmail.com>
+Date:   Sat Dec 11 13:44:45 2021 +0100
+
+    Create README.md
+
+[33mcommit 4361d36a94ce266aeb05be679419d3c026dff481[m
+Author: Zoltan Fabian <zoltan.dzooli.fabian@gmail.com>
+Date:   Sat Dec 11 13:41:31 2021 +0100
+
+    create LICENSE
